@@ -2,7 +2,7 @@
 /**
 *******************************************************
 Info:		STM32 DMA and PWM with HAL
-Author:		Chauke Oscar
+Author:		Rebaone Koopalame
 *******************************************************
 In this practical you will to use PWM using DMA on the STM32 using the HAL.
 We also set up an interrupt to switch the waveform between various LUTs.
